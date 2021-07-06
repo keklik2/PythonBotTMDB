@@ -9,7 +9,7 @@ from queue import Queue
 import tBot
 
 # TOKEN для связи бота и написанного кода
-TELEGRAM_TOKEN = '1897248148:AAF0ASP4HS4ChGjdfDPXjqg-X7u0k-Q8KNw'
+TELEGRAM_TOKEN = 'imput_token'
 # Создание бота по токену
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 
